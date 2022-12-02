@@ -205,7 +205,7 @@
 # Nitrogen
 [n]                                                  182   169        nar #                  nar, Aromatic Nitrogen in a ring
 [NX4]                                                183   170         N4 #                   N4, Nitrogen in Ammonium
-[NX3]                                                184   171         N3 #                   N3, sp3 Nitrogen
+[NX3v3]                                                184   171         N3 #                   N3, sp3 Nitrogen
 [NX3r5]                                              185   172       N3R5 #                 N3R5, sp3 Nitrogen on 5-membered cycle
 [NX4r5]                                              186   173       N4R5 #                 N4R5,  sp3 N with charge in 5-membered ring
 [NX3r6]                                              187   174       N3R6 #                 N3R6,  sp3 N in 6-membered ring
